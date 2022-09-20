@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyStoreClose</string>
+    <string name="iniciarSesion">Iniciar Sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="nombreUsuario">Nombre de usuario</string>
+    <string name="contrasenia">Contraseña</string>
+</resources>
